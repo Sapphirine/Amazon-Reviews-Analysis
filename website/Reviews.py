@@ -110,5 +110,5 @@ def search():
     return render_template("search.html")
 
 if __name__ == '__main__':
-    app.secret_key="srivatsanramesh"
+    app.secret_key="XXXXXXXXXX"
     app.run(debug = True)
