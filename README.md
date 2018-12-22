@@ -1,7 +1,7 @@
 # Amazon Review Analysis
 - Improving rating score and conducting feature extraction on Amazon Reviews
 
-*A project by **Arpita Shah**, **Srivatsan Ramesh** and **Soundarya Balasubramani** for EECS 6893 Big Data Analysis class at Columbia University.*
+*A project by **Soundarya Balasubramani**, **Srivatsan Ramesh** and **Arpita Shah** for EECS 6893 Big Data Analysis class at Columbia University.*
 
 #### So much information -- how to make sense of it?
 
