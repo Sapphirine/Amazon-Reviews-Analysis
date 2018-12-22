@@ -13,7 +13,7 @@ gunzip --keep reviews_Cell_Phones_and_Accessories.json.gz
 
 wget http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/meta_Cell_Phones_and_Accessories.json.gz
 
-gunzip --keep reviews_Cell_Phones_and_Accessories.json.gz
+gunzip --keep meta_Cell_Phones_and_Accessories.json.gz
 
 
 This unzipped the JSON files of the data sets, which were then read into Python for further analysis.
