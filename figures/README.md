@@ -1,1 +1,1 @@
-
+This folder contains all the images that were generated during our analyses. These mainly include distribution of ratings, helpfulness of reviews and length of reviews along with their pairwise relation.
